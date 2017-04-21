@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2017\Projects\Networks1\Networks1\bin\Debug\Networks1.exe.config
+\\mac\home\documents\visual studio 2017\Projects\Networks1\Networks1\bin\Debug\Networks1.exe
+\\mac\home\documents\visual studio 2017\Projects\Networks1\Networks1\bin\Debug\Networks1.pdb
+\\mac\home\documents\visual studio 2017\Projects\Networks1\Networks1\obj\Debug\Networks1.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2017\Projects\Networks1\Networks1\obj\Debug\Networks1.exe
+\\mac\home\documents\visual studio 2017\Projects\Networks1\Networks1\obj\Debug\Networks1.pdb
